@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @svjoaog
-- 👀 I’m interested in Design, UI/UX and React
-- 🌱 I’m currently learning Node.js and Node Native
+- 👀 I’m interested in Design, UI/UX, Front-End Dev (Mobile/Web)
 - 📫 How to reach me: s.joaog3@gmail.com
 
 <!---
