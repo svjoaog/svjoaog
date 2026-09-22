@@ -1,6 +1,6 @@
 # 👩🏻‍💻 João Vitor Gonçalves
 
-**`Desenvolvedor FullStack`**
+**`TI`** **`Desenvolvedor FullStack`**
 
 Sou João Vitor Gonçalves, tenho 27 anos e sou de Ipatinga, Minas Gerais. Concluí o ensino médio juntamente do curso técnico em informática, o que me levou a me formar em Ciência da Computação pela UFOP. Sempre fui uma pessoa ligada a tecnologia e gosto de aplicar meus conhecimentos em desenvolvimento em tarefas para otimizá-las.
 
